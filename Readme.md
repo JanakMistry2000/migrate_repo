@@ -2,7 +2,7 @@
 ## Step to Migrate
 
 Step 1:
-- Place file in your project directory
+- Place migrate_repo.sh file in your project directory
 
 Step 2: Give permission to file
 ```
